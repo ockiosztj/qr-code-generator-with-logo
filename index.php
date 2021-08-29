@@ -5,6 +5,7 @@ require 'utils/QRCodeGenerator.php';
 $size = "250";
 $color = "#000000";
 $logo = "logos/robin_logo.png";
+//$logo = null; // If no logo
 $file_type = "png";
 
 // QR Payload
